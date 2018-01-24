@@ -9,10 +9,4 @@ Bottom-up programming refers to designing a low-level class first and then proce
 
 Advantages of OOP - You can put data and methods together in a class definition, you can easily write recyclable source code, you can hide data, you can define multiple operators and functions with the same name using polymorphism has exist. It also uses inheritance to derive new classes from one class.
 
-sourcecode >> compiler
-		v
-		v
-   linker  << object code
-      v 	+ start-up code, library code
-      v
-excutable code
+sourcecode >> +compiler >> object code >> linker + start-up code, library code >> excutable code
