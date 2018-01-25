@@ -1,4 +1,4 @@
-Chapter 02 - Start C++
+# Chapter 02 - Start C++
 
 Function contain function header and function body.
 The function header is a ring that links function to other programs.
